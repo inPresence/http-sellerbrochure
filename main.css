@@ -1,13 +1,37 @@
 body {
     background-color: #ebf7fb;
+    color: white;
 }
 
 #main {
-    height: 200px;
+    /*height: 200px;*/
     width: 400px;
     border-radius: 15px;
 
-    margin-top: 25%;
+    margin-top: 20%;
 
     background-color: #019bc9;
+
+    font-family: Futura;
+
+    padding: 10px;
+}
+
+h1, h5 {
+    font-family: Futura;
+
+    text-transform: uppercase;
+    text-align: center;
+
+    color: white;
+}
+
+p {
+    text-transform: uppercase;
+    text-align: center;
+
+    padding: 10px;
+    margin-bottom: 0;
+
+    font-size: 10pt;
 }
