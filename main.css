@@ -1,10 +1,8 @@
 body {
-<<<<<<< HEAD
-    background-color: #ebf7fb;
-    color: white;
-=======
+
     background-color: #46b45d;
->>>>>>> origin/kevins
+    color: white;
+
 }
 
 #main {
@@ -43,14 +41,10 @@ p {
 #DownloadButton{
 	text-align: center;
 	padding-top: 70px;
-<<<<<<< HEAD
-=======
-}
-button{
-	font-family: Futura;
+		font-family: Futura;
 	font-weight: bold;
 	font-size: 14pt;
 	background-color: #46b45d;
 	border-radius: 15px;
->>>>>>> origin/kevins
+
 }
