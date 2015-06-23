@@ -1,26 +1,65 @@
 body {
     background-color: #46b45d;
+    color: white;
+    margin: 0 10px;
 }
 
 #main {
-    height: 200px;
-    width: 400px;
     border-radius: 15px;
 
-    margin-top: 25%;
+    margin-top: 15%;
 
     background-color: #019bc9;
+
+    font-family: Futura;
+
+    padding: 10px;
 }
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+
+    background-color: white;
+
+    border-radius: 10px;
+}
+
+h1, h5 {
+    font-family: Futura;
+
+    text-transform: uppercase;
+    text-align: center;
+
+    color: white;
+}
+
+p {
+    text-transform: uppercase;
+    text-align: center;
+
+    padding: 10px;
+    margin-bottom: 0;
+
+    font-size: 10pt;
+}
+
 #DownloadButton{
 	text-align: center;
+    margin: 10px;
+
 	padding-top: 70px;
-}
-button{
 	font-family: Futura;
 	font-weight: bold;
 	font-size: 14pt;
 	background-color: #46b45d;
 	border-radius: 15px;
+
+
 }
 
+
+
 // we add comments here for clarity.
+
