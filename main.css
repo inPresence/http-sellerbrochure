@@ -58,6 +58,21 @@ p {
 	border-radius: 15px;
 	
 }
+#CapitalWord{
+text-transform: capitalize;
+color: white;
+pointer-events: none;
+cursor: default;
+
+}
+#LowercaseWord{
+text-transform: lowercase;
+color: white;
+pointer-events: none;
+cursor: default;
+
+}
+
 
 
 // we add comments here for clarity.
